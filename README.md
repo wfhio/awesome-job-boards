@@ -144,6 +144,7 @@ A curated list of awesome niche job boards.
 * [remote | OK](https://remoteok.io/)
 * [whoishiring.io](https://whoishiring.io/)
 * [remote4me.com](https://remote4me.com/)
+* [findwork.dev](https://findwork.dev/)
 
 ## Startups
 
