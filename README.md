@@ -97,6 +97,7 @@ A curated list of awesome niche job boards.
 * [Vue.js Jobs](https://vuejobs.com/)
 * [We Work Meteor](https://www.weworkmeteor.com/)
 * [Svelte Jobs](https://sveltejobs.dev/)
+* [Javascript Works](https://javascript.works-hub.com/) - Local and remote JavaScript opportunities, articles and open-source.
 
 ### Perl
 
@@ -164,7 +165,7 @@ A curated list of awesome niche job boards.
 
 ### Canada
 
-* [Work in Tech](https://www1.communitech.ca/jobs) - Explore opportunities in Waterloo Region and beyond 
+* [Work in Tech](https://www1.communitech.ca/jobs) - Explore opportunities in Waterloo Region and beyond
 
 ### Europe
 
